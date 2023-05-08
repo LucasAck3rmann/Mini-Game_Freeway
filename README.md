@@ -1,6 +1,6 @@
 # Freeway
-<img align="center" alt="Lucas" height="250" width="230" src="https://github.com/LucasAck3rmann/Mini-Game_Freeway/blob/main/freeway/Freeway_Cover.jpg">
-<p align="center">Mini game inspirado no famoso jogo de Atari dos anos 80, Freeway.</p>
+<img alt="Lucas" height="250" width="230" src="https://github.com/LucasAck3rmann/Mini-Game_Freeway/blob/main/freeway/Freeway_Cover.jpg">
+<p>Mini game inspirado no famoso jogo de Atari dos anos 80, Freeway.</p>
 
 <hr>
 
